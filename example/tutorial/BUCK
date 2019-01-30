@@ -1,0 +1,9 @@
+cxx_library(
+  name = 'tutorial',
+  srcs = [
+    'hello.cpp',
+  ],
+  deps = [
+    '//:python',
+  ],
+)
