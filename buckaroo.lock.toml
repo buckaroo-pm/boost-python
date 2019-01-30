@@ -1,4 +1,4 @@
-manifest = "9589b79d2374182c00ba0af95eddbf69094dd29fe6d65b855e43d9fb285d9b81"
+manifest = "f715f4aea0fbb6eb9b00194b59068b9ac9911f0b04635a43df087e3c7f39f88c"
 
 [[dependency]]
 package = "github.com/buckaroo-pm/boost-config"
@@ -62,7 +62,7 @@ revision = "81b98182cb3314fab2ac4a30fc2cccb43b7cff51"
 
 [lock."github.com/buckaroo-pm/boost-array"]
 versions = [ "branch=master" ]
-revision = "ea0eab9a8cf538aa81a7d53f1762a5ff7e628e73"
+revision = "f326ae1e1b93216ce40e098a2baed4cc152d06ef"
 
 [lock."github.com/buckaroo-pm/boost-assert"]
 versions = [ "branch=master" ]
@@ -90,7 +90,7 @@ revision = "b6d0829b73358fd245368f89c450b18dc182bd94"
 
 [lock."github.com/buckaroo-pm/boost-concept_check"]
 versions = [ "branch=master" ]
-revision = "5a8bb5676742a02b9e2d343ecec66639da9deb3e"
+revision = "4dcd765d7933cb9419d9120cbf8df7d83e38f9db"
 
 [lock."github.com/buckaroo-pm/boost-config"]
 versions = [ "branch=master" ]
@@ -98,7 +98,7 @@ revision = "4392ed19b232ed2dde7623843d7e30ef669d860e"
 
 [lock."github.com/buckaroo-pm/boost-container"]
 versions = [ "branch=master" ]
-revision = "ad0d657f10d51aa7a72b6ae530e2e8a13316718e"
+revision = "bb4226c58e17f8880779f19559a50e497f2bfcba"
 
 [lock."github.com/buckaroo-pm/boost-container_hash"]
 versions = [ "branch=master" ]
@@ -134,7 +134,7 @@ revision = "bb8ffe4d24071f3942a18b274cc7f3ee0dc91eb2"
 
 [lock."github.com/buckaroo-pm/boost-functional"]
 versions = [ "branch=master" ]
-revision = "28b42e6161041316b359b53682f075522cd48d6f"
+revision = "a241f4f12c8b0e0f1d5d803eb5404c5d67ea254b"
 
 [lock."github.com/buckaroo-pm/boost-fusion"]
 versions = [ "branch=master" ]
@@ -234,7 +234,7 @@ revision = "10482c9459133c139137e459d8e1051246866983"
 
 [lock."github.com/buckaroo-pm/boost-ratio"]
 versions = [ "branch=master" ]
-revision = "1b80056654a5ca6384e54d925cfdd58feee28f63"
+revision = "dabc418e4bb7a180d5d17c84fb4f0bd61a9ee024"
 
 [lock."github.com/buckaroo-pm/boost-rational"]
 versions = [ "branch=master" ]
@@ -242,7 +242,7 @@ revision = "7a75e06a78e0481cb636412a62764f628ec8e56b"
 
 [lock."github.com/buckaroo-pm/boost-regex"]
 versions = [ "branch=master" ]
-revision = "c03a752db0bc55e196e4866e7d8fb9792bfbe4a5"
+revision = "4ff94fc09b98f94f31e9fec6bb9312ec0a0f724a"
 
 [lock."github.com/buckaroo-pm/boost-serialization"]
 versions = [ "branch=master" ]
@@ -262,7 +262,7 @@ revision = "8256c9846a133573ff959e0a7dc0cadb8fba5192"
 
 [lock."github.com/buckaroo-pm/boost-system"]
 versions = [ "branch=master" ]
-revision = "d98315738ee47380f52e43d790d1c42cf549b175"
+revision = "16cad275bcf88549063d1f01a4fbf483ea36e7cd"
 
 [lock."github.com/buckaroo-pm/boost-test"]
 versions = [ "branch=master" ]
@@ -286,11 +286,11 @@ revision = "5ffb0abec6da0d9986690b32d20218769a50086b"
 
 [lock."github.com/buckaroo-pm/boost-type_index"]
 versions = [ "branch=master" ]
-revision = "a8183e0bdcaafdda1183c0279137acadcb5b4466"
+revision = "e5d869f860393e8744ea34c70456d5d6dde1c308"
 
 [lock."github.com/buckaroo-pm/boost-type_traits"]
 versions = [ "branch=master" ]
-revision = "a34caf51f831ffb77d1057c668b5db620863d191"
+revision = "2146ff039c062639fa99fbd5e1b8b441adb5d5a8"
 
 [lock."github.com/buckaroo-pm/boost-typeof"]
 versions = [ "branch=master" ]
@@ -302,7 +302,7 @@ revision = "1cf282fd9cca5c81388251c25c65adc0d3f8cfb3"
 
 [lock."github.com/buckaroo-pm/boost-unordered"]
 versions = [ "branch=master" ]
-revision = "7fe9837e937e161a537fcb869a678bfe54d18b2c"
+revision = "9a7c3874ccb07bdb26fd1e79905aeadb53488b7a"
 
 [lock."github.com/buckaroo-pm/boost-utility"]
 versions = [ "branch=master" ]
@@ -310,7 +310,7 @@ revision = "57aa216434800315c9cd2664169e444e3070a677"
 
 [lock."github.com/buckaroo-pm/boost-variant"]
 versions = [ "branch=master" ]
-revision = "f95029191ed33a6370b690da81df903dc7db4cb1"
+revision = "949b6a0e4595c817bbe23f5dab2f85b16b547bf1"
 
 [lock."github.com/buckaroo-pm/boost-winapi"]
 versions = [ "branch=master" ]
@@ -322,7 +322,7 @@ revision = "4b6529d4883a031f1bf43561a06a06503165032a"
 
 [lock."github.com/buckaroo-pm/icu4c"]
 versions = [ "branch=master" ]
-revision = "d6803681f02ef9395665d4db6e84a4416a679bc3"
+revision = "2bfbe715e2c1cd41e301b6a67fd50ae54273a504"
 
 [lock."github.com/buckaroo-pm/pkg-config-python2"]
 versions = [ "branch=master" ]
