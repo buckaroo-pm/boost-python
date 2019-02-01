@@ -86,7 +86,7 @@ revision = "0d9de7ea384e6e70d788667bb78c94f2cfe8949a"
 
 [lock."github.com/buckaroo-pm/boost-circular_buffer"]
 versions = [ "branch=master" ]
-revision = "b6d0829b73358fd245368f89c450b18dc182bd94"
+revision = "335e9fdf5f7438c9f419eedc63eea31309ab4ebf"
 
 [lock."github.com/buckaroo-pm/boost-concept_check"]
 versions = [ "branch=master" ]
@@ -290,7 +290,7 @@ revision = "e5d869f860393e8744ea34c70456d5d6dde1c308"
 
 [lock."github.com/buckaroo-pm/boost-type_traits"]
 versions = [ "branch=master" ]
-revision = "2146ff039c062639fa99fbd5e1b8b441adb5d5a8"
+revision = "5fcaae5126a91df33721a25f9236c75ba9520483"
 
 [lock."github.com/buckaroo-pm/boost-typeof"]
 versions = [ "branch=master" ]
