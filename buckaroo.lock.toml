@@ -50,7 +50,7 @@ target = "//:python2"
 
 [lock."github.com/buckaroo-pm/boost-algorithm"]
 versions = [ "branch=master" ]
-revision = "81660693b6473d0ec6d000a01fd74b7dadd22106"
+revision = "eab7c8d0b43f176fa15e6d541a953e56643c2a62"
 
 [lock."github.com/buckaroo-pm/boost-align"]
 versions = [ "branch=master" ]
@@ -62,7 +62,7 @@ revision = "81b98182cb3314fab2ac4a30fc2cccb43b7cff51"
 
 [lock."github.com/buckaroo-pm/boost-array"]
 versions = [ "branch=master" ]
-revision = "f326ae1e1b93216ce40e098a2baed4cc152d06ef"
+revision = "33b398e1da5f9267d4c1e54df8651beaee611102"
 
 [lock."github.com/buckaroo-pm/boost-assert"]
 versions = [ "branch=master" ]
@@ -74,7 +74,7 @@ revision = "fec43c0920f45a65cf5296dcd28643a513ef1734"
 
 [lock."github.com/buckaroo-pm/boost-atomic"]
 versions = [ "branch=master" ]
-revision = "54e906eaa9d71c68bd0d990727f060e81389f3cb"
+revision = "3c7e658914247c4b27511d2a46f59be614e2f7bf"
 
 [lock."github.com/buckaroo-pm/boost-bind"]
 versions = [ "branch=master" ]
@@ -314,7 +314,7 @@ revision = "949b6a0e4595c817bbe23f5dab2f85b16b547bf1"
 
 [lock."github.com/buckaroo-pm/boost-winapi"]
 versions = [ "branch=master" ]
-revision = "92c47b2e1db8a7c023d394e979f81438b410fd18"
+revision = "44002f228a0b91c556cd41f8ceb5b4bff7745166"
 
 [lock."github.com/buckaroo-pm/boost-xpressive"]
 versions = [ "branch=master" ]
