@@ -322,7 +322,7 @@ revision = "d8d9a04dc61e909cb7329f533cd1d9f704f4cafa"
 
 [lock."github.com/buckaroo-pm/icu4c"]
 versions = [ "branch=master" ]
-revision = "2bfbe715e2c1cd41e301b6a67fd50ae54273a504"
+revision = "7dfc9d72ec1fd0a47d0ef4f8e7756c797ad26f53"
 
 [lock."github.com/buckaroo-pm/madler-zlib"]
 versions = [ "1.0.1" ]
